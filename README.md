@@ -1,6 +1,7 @@
 For Tradition Assignment
 
 Note1: I chose not to use references for EC2 and EKS.(Like Blueprint, Terraform-AWS-EKS etc.)
+
 Note2: I commented that Tasks not below are for demo.
 
 Tasks and Solutions:
